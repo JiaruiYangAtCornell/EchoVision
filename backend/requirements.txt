@@ -1,0 +1,7 @@
+functions-framework==3.*
+Flask
+flask-cors
+python-dotenv
+google-cloud-aiplatform
+vertexai
+google-adk
